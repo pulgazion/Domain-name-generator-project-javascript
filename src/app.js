@@ -15,7 +15,7 @@ window.onload = function() {
     for (let j = 0; j < noun.length; j++) {
       for (let p = 0; p < adj.length; p++) {
         for (let r = 0; r < dominio.length; r++) {
-          console.log(`${pronoun[i]}${noun[j]} ${adj[p]}${dominio[r]}`);
+          console.log(`${pronoun[i]}${noun[j]}${adj[p]}${dominio[r]}`);
         }
       }
     }
